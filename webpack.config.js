@@ -40,5 +40,6 @@ module.exports = {
     port: 9000,
     hot: true, // Enable Hot Module Replacement
     open: true, // Open the browser automatically
+    historyApiFallback: true,
   },
 };
